@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=jejecrunch&fontSize=70)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jejecrunch&show_icons=true&theme=tokyonight)
-)](https://github.com/jejecrunch/github-readme-stats)
+)](https://github.com/jejecrunch/
 <br />
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=blyke)](https://solved.ac/blyke)
