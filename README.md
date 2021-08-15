@@ -1,6 +1,6 @@
-<div align='center'>![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=jejecrunch&fontSize=70)
+<div align='center'>![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=jejecrunch&fontSize=70)</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jejecrunch&show_icons=true&theme=tokyonight)
+<div align='center'>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jejecrunch&show_icons=true&theme=tokyonight)
 ](https://github.com/jejecrunch/)
 <br />
 [![Solved.ac
