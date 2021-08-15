@@ -1,11 +1,10 @@
-<p align='center'>![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=jejecrunch&fontSize=70)</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=jejecrunch&fontSize=70)
 
-<p align='center'>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jejecrunch&show_icons=true&theme=tokyonight)
-)](https://github.com/jejecrunch/github-readme-stats)</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jejecrunch&show_icons=true&theme=tokyonight)
+)](https://github.com/jejecrunch/github-readme-stats)
 <br />
-<p align='center'>[![Solved.ac
+[![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=blyke)](https://solved.ac/blyke)
-</p>
 
 <h3 align="center">⚡️Tech Stack⚡️<h3>
   <div align='center'>
@@ -20,4 +19,4 @@
 
 <h3 align="center">🐾I have used🐾<h3>
 
-<p align="center">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjejecrunch%2Fjejecrunch%2FREADME.md&count_bg=%237A70F5&title_bg=%234F4F4F&icon=influxdb.svg&icon_color=%23D8D3DF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)</p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjejecrunch%2Fjejecrunch%2FREADME.md&count_bg=%237A70F5&title_bg=%234F4F4F&icon=influxdb.svg&icon_color=%23D8D3DF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
