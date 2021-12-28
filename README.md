@@ -42,7 +42,7 @@
   <br />
   <h3 align="center">📞Contact📞<h3>
   <div align='center'>
-<a href="mailto:﻿"gkswlgp456@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+<a href="mailto:﻿"jejecrunch.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 <a href="https://dev-jejecrunch.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp
 <a href="https://twitter.com/dev_jeje"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   </div>
