@@ -56,12 +56,4 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 </a>
 
-<a href="https://dev-jejecrunch.tistory.com/">
-  <img src="https://img.shields.io/badge/blog-FF5722?style=flat&logo=Blogger&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/dev_jeje">
-  <img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
-</a>
-
 </div>
